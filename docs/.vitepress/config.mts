@@ -29,7 +29,10 @@ export default defineConfig({
           items: [
             { text: '推理：模型真正干活的阶段', link: '/ai-engineer/02-model-basics/inference' },
             { text: '训练：模型从数据里学规律', link: '/ai-engineer/02-model-basics/training' },
-            { text: '预训练模型的好处', link: '/ai-engineer/02-model-basics/benefits-of-pre-trained-models' }
+            { text: '预训练模型的好处', link: '/ai-engineer/02-model-basics/benefits-of-pre-trained-models' },
+            { text: 'Embedding：把语义变成可计算的向量', link: '/ai-engineer/02-model-basics/embeddings' },
+            { text: '预训练模型的限制和选型考虑', link: '/ai-engineer/02-model-basics/limitations-and-considerations' },
+            { text: 'OpenAI Models：先按任务选模型', link: '/ai-engineer/02-model-basics/openai-models' }
           ]
         }
       ],
@@ -40,7 +43,8 @@ export default defineConfig({
             { text: '2026-06-05 首次整理', link: '/logs/2026-06-05-run-01' },
             { text: '2026-06-05 第二次整理', link: '/logs/2026-06-05-run-02' },
             { text: '2026-06-05 第三次整理', link: '/logs/2026-06-05-run-03' },
-            { text: '2026-06-05 既有内容优化', link: '/logs/2026-06-05-run-04' }
+            { text: '2026-06-05 既有内容优化', link: '/logs/2026-06-05-run-04' },
+            { text: '2026-06-05 Embedding 与 OpenAI 模型', link: '/logs/2026-06-05-run-05' }
           ]
         }
       ]

@@ -46,20 +46,37 @@
       "id": "1Ga6DbOPc6Crz7ilsZMYy",
       "label": "Benefits of Pre-trained Models",
       "file": "docs/ai-engineer/02-model-basics/benefits-of-pre-trained-models.md"
+    },
+    {
+      "id": "XyEp6jnBSpCxMGwALnYfT",
+      "label": "Embeddings",
+      "file": "docs/ai-engineer/02-model-basics/embeddings.md"
+    },
+    {
+      "id": "MXqbQGhNM3xpXlMC2ib_6",
+      "label": "Limitations and Considerations",
+      "file": "docs/ai-engineer/02-model-basics/limitations-and-considerations.md",
+      "sourceNote": "Graph node has no dedicated content file; original reference maps to pre-trained-models@d7fzv_ft12EopsQdmEsel.md."
+    },
+    {
+      "id": "5ShWZl1QUqPwO-NRGN85V",
+      "label": "OpenAI Models",
+      "file": "docs/ai-engineer/02-model-basics/openai-models.md",
+      "sourceNote": "Graph node has no dedicated content file; original reference maps to openai-gpt-o-series@3PQVZbcr4neNMRr6CuNzS.md."
     }
   ],
   "next": [
     {
-      "id": "XyEp6jnBSpCxMGwALnYfT",
-      "label": "Embeddings"
+      "id": "LnQ2AatMWpExUHcZhDIPd",
+      "label": "Vector Databases"
     },
     {
-      "id": "MXqbQGhNM3xpXlMC2ib_6",
-      "label": "Limitations and Considerations"
+      "id": "9JwWIK0Z2MK8-6EQQJsCO",
+      "label": "RAG"
     },
     {
-      "id": "5ShWZl1QUqPwO-NRGN85V",
-      "label": "OpenAI Models"
+      "id": "9XCxilAQ7FRet7lHQr1gE",
+      "label": "AI Agents"
     }
   ]
 }

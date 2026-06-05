@@ -13,3 +13,6 @@
 7. [推理：模型真正干活的阶段](/ai-engineer/02-model-basics/inference)
 8. [训练：模型从数据里学规律](/ai-engineer/02-model-basics/training)
 9. [预训练模型的好处](/ai-engineer/02-model-basics/benefits-of-pre-trained-models)
+10. [Embedding：把语义变成可计算的向量](/ai-engineer/02-model-basics/embeddings)
+11. [预训练模型的限制和选型考虑](/ai-engineer/02-model-basics/limitations-and-considerations)
+12. [OpenAI Models：先按任务选模型](/ai-engineer/02-model-basics/openai-models)

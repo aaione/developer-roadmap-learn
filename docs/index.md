@@ -11,10 +11,8 @@
 
 ## 当前进度
 
-已完成第一批：
+已按图谱顺序完成 Introduction 和 Model Basics 的前 12 个小节：
 
-- [AI 对产品开发的影响](/ai-engineer/01-introduction/impact-on-product-development)
-- [AI Engineer 的角色和职责](/ai-engineer/01-introduction/roles-and-responsibilities)
-- [什么是 AI Engineer？](/ai-engineer/01-introduction/what-is-an-ai-engineer)
+- [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `AI Engineer vs ML Engineer`、`AI vs AGI`、`LLMs`。
+下一批将继续图谱中的 `Vector Databases`、`RAG`、`AI Agents`。
