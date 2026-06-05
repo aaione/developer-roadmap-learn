@@ -1,6 +1,6 @@
-# Roles and Responsibilities
+# AI Engineer 的角色和职责
 
-![Roles and Responsibilities 黑板报配图](/images/ai-engineer/roles-and-responsibilities.png)
+![AI Engineer 角色和职责黑板报配图](/images/ai-engineer/roles-and-responsibilities.png)
 
 ## 学习目标
 
@@ -42,7 +42,7 @@ AI Engineer 的工作重点是把 AI 能力接进真实产品。它不是只写 
 
 - [AI Engineer Job Description - Workable](https://resources.workable.com/ai-engineer-job-description)
 - [How To Become an AI Engineer - Indeed](https://www.indeed.com/career-advice/finding-a-job/ai-engineer)
-- [roadmap.sh 原始章节：Roles and Responsibilities](https://roadmap.sh/ai-engineer)
+- [roadmap.sh 原始章节：AI Engineer 的角色和职责](https://roadmap.sh/ai-engineer)
 
 ## 本次参考
 

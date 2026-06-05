@@ -4,6 +4,6 @@
 
 ## 章节
 
-1. [Impact on Product Development](/ai-engineer/01-introduction/impact-on-product-development)
-2. [Roles and Responsibilities](/ai-engineer/01-introduction/roles-and-responsibilities)
-3. [What is an AI Engineer?](/ai-engineer/01-introduction/what-is-an-ai-engineer)
+1. [AI 对产品开发的影响](/ai-engineer/01-introduction/impact-on-product-development)
+2. [AI Engineer 的角色和职责](/ai-engineer/01-introduction/roles-and-responsibilities)
+3. [什么是 AI Engineer？](/ai-engineer/01-introduction/what-is-an-ai-engineer)

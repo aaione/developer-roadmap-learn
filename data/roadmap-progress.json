@@ -1,5 +1,5 @@
 {
-  "source": "/Users/apple/work/hs/ai-feature/developer-roadmap/src/data/roadmaps/ai-engineer/ai-engineer.json",
+  "source": "developer-roadmap/src/data/roadmaps/ai-engineer/ai-engineer.json",
   "strategy": "Sort real roadmap content nodes by graph y position, then x position, while keeping topic/subtopic grouping visible in the VitePress sidebar.",
   "completed": [
     {

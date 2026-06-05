@@ -16,9 +16,9 @@ export default defineConfig({
         {
           text: 'Introduction',
           items: [
-            { text: 'Impact on Product Development', link: '/ai-engineer/01-introduction/impact-on-product-development' },
-            { text: 'Roles and Responsibilities', link: '/ai-engineer/01-introduction/roles-and-responsibilities' },
-            { text: 'What is an AI Engineer?', link: '/ai-engineer/01-introduction/what-is-an-ai-engineer' }
+            { text: 'AI 对产品开发的影响', link: '/ai-engineer/01-introduction/impact-on-product-development' },
+            { text: 'AI Engineer 的角色和职责', link: '/ai-engineer/01-introduction/roles-and-responsibilities' },
+            { text: '什么是 AI Engineer？', link: '/ai-engineer/01-introduction/what-is-an-ai-engineer' }
           ]
         }
       ],

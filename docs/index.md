@@ -1,6 +1,6 @@
 # AI Engineer Roadmap 中文整理
 
-这个站点是一个独立的 VitePress 项目，用来把 `/Users/apple/work/hs/ai-feature/developer-roadmap` 中的 `ai-engineer` 图谱整理成中文学习材料。
+这个站点是一个独立的 VitePress 项目，用来把 `developer-roadmap` 中的 `ai-engineer` 图谱整理成中文学习材料。
 
 整理规则：
 
@@ -13,8 +13,8 @@
 
 已完成第一批：
 
-- [Impact on Product Development](/ai-engineer/01-introduction/impact-on-product-development)
-- [Roles and Responsibilities](/ai-engineer/01-introduction/roles-and-responsibilities)
-- [What is an AI Engineer?](/ai-engineer/01-introduction/what-is-an-ai-engineer)
+- [AI 对产品开发的影响](/ai-engineer/01-introduction/impact-on-product-development)
+- [AI Engineer 的角色和职责](/ai-engineer/01-introduction/roles-and-responsibilities)
+- [什么是 AI Engineer？](/ai-engineer/01-introduction/what-is-an-ai-engineer)
 
 下一批将继续图谱中的 `AI Engineer vs ML Engineer`、`AI vs AGI`、`LLMs`。

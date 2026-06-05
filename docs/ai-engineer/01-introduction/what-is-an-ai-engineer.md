@@ -1,6 +1,6 @@
-# What is an AI Engineer?
+# 什么是 AI Engineer？
 
-![What is an AI Engineer 黑板报配图](/images/ai-engineer/what-is-an-ai-engineer.png)
+![什么是 AI Engineer 黑板报配图](/images/ai-engineer/what-is-an-ai-engineer.png)
 
 ## 学习目标
 
@@ -44,7 +44,7 @@ AI Engineer 是把 AI 模型、工具和产品系统连起来的人。这个岗�
 
 - [What Is an AI Engineer? - Coursera](https://www.coursera.org/articles/ai-engineer)
 - [AI Engineers: What they do and how to become one - TechTarget](https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer)
-- [roadmap.sh 原始章节：What is an AI Engineer?](https://roadmap.sh/ai-engineer)
+- [roadmap.sh 原始章节：什么是 AI Engineer？](https://roadmap.sh/ai-engineer)
 
 ## 本次参考
 
