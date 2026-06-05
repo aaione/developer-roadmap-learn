@@ -16,3 +16,6 @@
 10. [Embedding：把语义变成可计算的向量](/ai-engineer/02-model-basics/embeddings)
 11. [预训练模型的限制和选型考虑](/ai-engineer/02-model-basics/limitations-and-considerations)
 12. [OpenAI Models：先按任务选模型](/ai-engineer/02-model-basics/openai-models)
+13. [向量数据库：让语义检索跑起来](/ai-engineer/03-context-retrieval-agents/vector-databases)
+14. [RAG：把外部知识接进模型](/ai-engineer/03-context-retrieval-agents/rag)
+15. [AI Agents：能规划和调用工具的系统](/ai-engineer/03-context-retrieval-agents/ai-agents)

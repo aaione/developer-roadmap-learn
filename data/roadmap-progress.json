@@ -63,20 +63,38 @@
       "label": "OpenAI Models",
       "file": "docs/ai-engineer/02-model-basics/openai-models.md",
       "sourceNote": "Graph node has no dedicated content file; original reference maps to openai-gpt-o-series@3PQVZbcr4neNMRr6CuNzS.md."
+    },
+    {
+      "id": "LnQ2AatMWpExUHcZhDIPd",
+      "label": "Vector Databases",
+      "file": "docs/ai-engineer/03-context-retrieval-agents/vector-databases.md",
+      "sourceNote": "Graph node label is Vector Databases; original reference maps to vector-databases@tt9u3oFlsjEMfPyojuqpc.md because the same-ID source file is titled RAG and Dynamic Filters."
+    },
+    {
+      "id": "9JwWIK0Z2MK8-6EQQJsCO",
+      "label": "RAG",
+      "file": "docs/ai-engineer/03-context-retrieval-agents/rag.md",
+      "sourceNote": "Graph node label is RAG; original reference maps to rag@IX1BJWGwGmB4L063g0Frf.md because the same-ID source file is titled Context Isolation."
+    },
+    {
+      "id": "9XCxilAQ7FRet7lHQr1gE",
+      "label": "AI Agents",
+      "file": "docs/ai-engineer/03-context-retrieval-agents/ai-agents.md",
+      "sourceNote": "Graph node label is AI Agents; original reference maps to ai-agents@4_ap0rD9Gl6Ep_4jMfPpG.md because the same-ID source file is titled Context Compaction."
     }
   ],
   "next": [
     {
-      "id": "LnQ2AatMWpExUHcZhDIPd",
-      "label": "Vector Databases"
+      "id": "2WbVpRLqwi3Oeqk1JPui4",
+      "label": "Open AI Models"
     },
     {
-      "id": "9JwWIK0Z2MK8-6EQQJsCO",
-      "label": "RAG"
+      "id": "Dc15ayFlzqMF24RqIF_-X",
+      "label": "Prompt Engineering"
     },
     {
-      "id": "9XCxilAQ7FRet7lHQr1gE",
-      "label": "AI Agents"
+      "id": "vvpYkmycH0_W030E-L12f",
+      "label": "Capabilities / Context Length"
     }
   ]
 }

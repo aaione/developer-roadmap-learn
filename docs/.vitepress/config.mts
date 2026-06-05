@@ -34,6 +34,14 @@ export default defineConfig({
             { text: '预训练模型的限制和选型考虑', link: '/ai-engineer/02-model-basics/limitations-and-considerations' },
             { text: 'OpenAI Models：先按任务选模型', link: '/ai-engineer/02-model-basics/openai-models' }
           ]
+        },
+        {
+          text: 'Context, Retrieval and Agents',
+          items: [
+            { text: '向量数据库：让语义检索跑起来', link: '/ai-engineer/03-context-retrieval-agents/vector-databases' },
+            { text: 'RAG：把外部知识接进模型', link: '/ai-engineer/03-context-retrieval-agents/rag' },
+            { text: 'AI Agents：能规划和调用工具的系统', link: '/ai-engineer/03-context-retrieval-agents/ai-agents' }
+          ]
         }
       ],
       '/logs/': [
@@ -44,7 +52,8 @@ export default defineConfig({
             { text: '2026-06-05 第二次整理', link: '/logs/2026-06-05-run-02' },
             { text: '2026-06-05 第三次整理', link: '/logs/2026-06-05-run-03' },
             { text: '2026-06-05 既有内容优化', link: '/logs/2026-06-05-run-04' },
-            { text: '2026-06-05 Embedding 与 OpenAI 模型', link: '/logs/2026-06-05-run-05' }
+            { text: '2026-06-05 Embedding 与 OpenAI 模型', link: '/logs/2026-06-05-run-05' },
+            { text: '2026-06-05 向量检索与 Agent', link: '/logs/2026-06-05-run-06' }
           ]
         }
       ]

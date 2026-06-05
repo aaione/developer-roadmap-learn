@@ -11,8 +11,8 @@
 
 ## 当前进度
 
-已按图谱顺序完成 Introduction 和 Model Basics 的前 12 个小节：
+已按图谱顺序完成 Introduction、Model Basics 以及向量检索到 Agent 的前 15 个小节：
 
 - [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `Vector Databases`、`RAG`、`AI Agents`。
+下一批将继续图谱中的 `Open AI Models`、`Prompt Engineering`、`Capabilities / Context Length`。
