@@ -1,0 +1,35 @@
+{
+  "source": "/Users/apple/work/hs/ai-feature/developer-roadmap/src/data/roadmaps/ai-engineer/ai-engineer.json",
+  "strategy": "Sort real roadmap content nodes by graph y position, then x position, while keeping topic/subtopic grouping visible in the VitePress sidebar.",
+  "completed": [
+    {
+      "id": "qJVgKe9uBvXc-YPfvX_Y7",
+      "label": "Impact on Product Development",
+      "file": "docs/ai-engineer/01-introduction/impact-on-product-development.md"
+    },
+    {
+      "id": "K9EiuFgPBFgeRxY4wxAmb",
+      "label": "Roles and Responsiblities",
+      "file": "docs/ai-engineer/01-introduction/roles-and-responsibilities.md"
+    },
+    {
+      "id": "GN6SnI7RXIeW8JeD-qORW",
+      "label": "What is an AI Engineer?",
+      "file": "docs/ai-engineer/01-introduction/what-is-an-ai-engineer.md"
+    }
+  ],
+  "next": [
+    {
+      "id": "jSZ1LhPdhlkW-9QJhIvFs",
+      "label": "AI Engineer vs ML Engineer"
+    },
+    {
+      "id": "5QdihE1lLpMc3DFrGy46M",
+      "label": "AI vs AGI"
+    },
+    {
+      "id": "wf2BSyUekr1S1q6l8kyq6",
+      "label": "LLMs"
+    }
+  ]
+}

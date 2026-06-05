@@ -1,0 +1,41 @@
+import { defineConfig } from 'vitepress';
+
+export default defineConfig({
+  title: 'AI Engineer Roadmap',
+  description: '按照 roadmap.sh AI Engineer 图谱整理的中文学习笔记',
+  lang: 'zh-CN',
+  cleanUrls: true,
+  themeConfig: {
+    nav: [
+      { text: '首页', link: '/' },
+      { text: 'AI Engineer', link: '/ai-engineer/' },
+      { text: '整理日志', link: '/logs/' }
+    ],
+    sidebar: {
+      '/ai-engineer/': [
+        {
+          text: 'Introduction',
+          items: [
+            { text: 'Impact on Product Development', link: '/ai-engineer/01-introduction/impact-on-product-development' },
+            { text: 'Roles and Responsibilities', link: '/ai-engineer/01-introduction/roles-and-responsibilities' },
+            { text: 'What is an AI Engineer?', link: '/ai-engineer/01-introduction/what-is-an-ai-engineer' }
+          ]
+        }
+      ],
+      '/logs/': [
+        {
+          text: '整理日志',
+          items: [
+            { text: '2026-06-05 首次整理', link: '/logs/2026-06-05-run-01' }
+          ]
+        }
+      ]
+    },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/kamranahmedse/developer-roadmap' }
+    ],
+    search: {
+      provider: 'local'
+    }
+  }
+});
