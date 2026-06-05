@@ -39,7 +39,8 @@ export default defineConfig({
           items: [
             { text: '2026-06-05 首次整理', link: '/logs/2026-06-05-run-01' },
             { text: '2026-06-05 第二次整理', link: '/logs/2026-06-05-run-02' },
-            { text: '2026-06-05 第三次整理', link: '/logs/2026-06-05-run-03' }
+            { text: '2026-06-05 第三次整理', link: '/logs/2026-06-05-run-03' },
+            { text: '2026-06-05 既有内容优化', link: '/logs/2026-06-05-run-04' }
           ]
         }
       ]
