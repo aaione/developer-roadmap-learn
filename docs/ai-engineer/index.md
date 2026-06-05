@@ -10,3 +10,6 @@
 4. [AI Engineer 和 ML Engineer 的区别](/ai-engineer/01-introduction/ai-engineer-vs-ml-engineer)
 5. [AI 和 AGI 的区别](/ai-engineer/01-introduction/ai-vs-agi)
 6. [什么是 LLM？](/ai-engineer/01-introduction/llms)
+7. [推理：模型真正干活的阶段](/ai-engineer/02-model-basics/inference)
+8. [训练：模型从数据里学规律](/ai-engineer/02-model-basics/training)
+9. [预训练模型的好处](/ai-engineer/02-model-basics/benefits-of-pre-trained-models)

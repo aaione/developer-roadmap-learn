@@ -23,6 +23,14 @@ export default defineConfig({
             { text: 'AI 和 AGI 的区别', link: '/ai-engineer/01-introduction/ai-vs-agi' },
             { text: '什么是 LLM？', link: '/ai-engineer/01-introduction/llms' }
           ]
+        },
+        {
+          text: 'Model Basics',
+          items: [
+            { text: '推理：模型真正干活的阶段', link: '/ai-engineer/02-model-basics/inference' },
+            { text: '训练：模型从数据里学规律', link: '/ai-engineer/02-model-basics/training' },
+            { text: '预训练模型的好处', link: '/ai-engineer/02-model-basics/benefits-of-pre-trained-models' }
+          ]
         }
       ],
       '/logs/': [
@@ -30,7 +38,8 @@ export default defineConfig({
           text: '整理日志',
           items: [
             { text: '2026-06-05 首次整理', link: '/logs/2026-06-05-run-01' },
-            { text: '2026-06-05 第二次整理', link: '/logs/2026-06-05-run-02' }
+            { text: '2026-06-05 第二次整理', link: '/logs/2026-06-05-run-02' },
+            { text: '2026-06-05 第三次整理', link: '/logs/2026-06-05-run-03' }
           ]
         }
       ]

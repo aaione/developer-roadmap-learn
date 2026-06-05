@@ -31,20 +31,35 @@
       "id": "wf2BSyUekr1S1q6l8kyq6",
       "label": "LLMs",
       "file": "docs/ai-engineer/01-introduction/llms.md"
+    },
+    {
+      "id": "KWjD4xEPhOOYS51dvRLd2",
+      "label": "Inference",
+      "file": "docs/ai-engineer/02-model-basics/inference.md"
+    },
+    {
+      "id": "xostGgoaYkqMO28iN2gx8",
+      "label": "Training",
+      "file": "docs/ai-engineer/02-model-basics/training.md"
+    },
+    {
+      "id": "1Ga6DbOPc6Crz7ilsZMYy",
+      "label": "Benefits of Pre-trained Models",
+      "file": "docs/ai-engineer/02-model-basics/benefits-of-pre-trained-models.md"
     }
   ],
   "next": [
     {
-      "id": "KWjD4xEPhOOYS51dvRLd2",
-      "label": "Inference"
+      "id": "XyEp6jnBSpCxMGwALnYfT",
+      "label": "Embeddings"
     },
     {
-      "id": "xostGgoaYkqMO28iN2gx8",
-      "label": "Training"
+      "id": "MXqbQGhNM3xpXlMC2ib_6",
+      "label": "Limitations and Considerations"
     },
     {
-      "id": "1Ga6DbOPc6Crz7ilsZMYy",
-      "label": "Benefits of Pre-trained Models"
+      "id": "5ShWZl1QUqPwO-NRGN85V",
+      "label": "OpenAI Models"
     }
   ]
 }
