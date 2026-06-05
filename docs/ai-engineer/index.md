@@ -7,3 +7,6 @@
 1. [AI 对产品开发的影响](/ai-engineer/01-introduction/impact-on-product-development)
 2. [AI Engineer 的角色和职责](/ai-engineer/01-introduction/roles-and-responsibilities)
 3. [什么是 AI Engineer？](/ai-engineer/01-introduction/what-is-an-ai-engineer)
+4. [AI Engineer 和 ML Engineer 的区别](/ai-engineer/01-introduction/ai-engineer-vs-ml-engineer)
+5. [AI 和 AGI 的区别](/ai-engineer/01-introduction/ai-vs-agi)
+6. [什么是 LLM？](/ai-engineer/01-introduction/llms)

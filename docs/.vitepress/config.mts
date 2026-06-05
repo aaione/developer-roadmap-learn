@@ -18,7 +18,10 @@ export default defineConfig({
           items: [
             { text: 'AI 对产品开发的影响', link: '/ai-engineer/01-introduction/impact-on-product-development' },
             { text: 'AI Engineer 的角色和职责', link: '/ai-engineer/01-introduction/roles-and-responsibilities' },
-            { text: '什么是 AI Engineer？', link: '/ai-engineer/01-introduction/what-is-an-ai-engineer' }
+            { text: '什么是 AI Engineer？', link: '/ai-engineer/01-introduction/what-is-an-ai-engineer' },
+            { text: 'AI Engineer 和 ML Engineer 的区别', link: '/ai-engineer/01-introduction/ai-engineer-vs-ml-engineer' },
+            { text: 'AI 和 AGI 的区别', link: '/ai-engineer/01-introduction/ai-vs-agi' },
+            { text: '什么是 LLM？', link: '/ai-engineer/01-introduction/llms' }
           ]
         }
       ],
@@ -26,7 +29,8 @@ export default defineConfig({
         {
           text: '整理日志',
           items: [
-            { text: '2026-06-05 首次整理', link: '/logs/2026-06-05-run-01' }
+            { text: '2026-06-05 首次整理', link: '/logs/2026-06-05-run-01' },
+            { text: '2026-06-05 第二次整理', link: '/logs/2026-06-05-run-02' }
           ]
         }
       ]

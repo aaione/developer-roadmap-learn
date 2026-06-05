@@ -16,20 +16,35 @@
       "id": "GN6SnI7RXIeW8JeD-qORW",
       "label": "What is an AI Engineer?",
       "file": "docs/ai-engineer/01-introduction/what-is-an-ai-engineer.md"
+    },
+    {
+      "id": "jSZ1LhPdhlkW-9QJhIvFs",
+      "label": "AI Engineer vs ML Engineer",
+      "file": "docs/ai-engineer/01-introduction/ai-engineer-vs-ml-engineer.md"
+    },
+    {
+      "id": "5QdihE1lLpMc3DFrGy46M",
+      "label": "AI vs AGI",
+      "file": "docs/ai-engineer/01-introduction/ai-vs-agi.md"
+    },
+    {
+      "id": "wf2BSyUekr1S1q6l8kyq6",
+      "label": "LLMs",
+      "file": "docs/ai-engineer/01-introduction/llms.md"
     }
   ],
   "next": [
     {
-      "id": "jSZ1LhPdhlkW-9QJhIvFs",
-      "label": "AI Engineer vs ML Engineer"
+      "id": "KWjD4xEPhOOYS51dvRLd2",
+      "label": "Inference"
     },
     {
-      "id": "5QdihE1lLpMc3DFrGy46M",
-      "label": "AI vs AGI"
+      "id": "xostGgoaYkqMO28iN2gx8",
+      "label": "Training"
     },
     {
-      "id": "wf2BSyUekr1S1q6l8kyq6",
-      "label": "LLMs"
+      "id": "1Ga6DbOPc6Crz7ilsZMYy",
+      "label": "Benefits of Pre-trained Models"
     }
   ]
 }
