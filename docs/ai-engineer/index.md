@@ -1,6 +1,6 @@
 # AI Engineer
 
-本目录严格跟随原项目 `src/data/roadmaps/ai-engineer/ai-engineer.json` 的图谱顺序整理。当前按顶部 Introduction 区域先推进，不把后续模型、OpenAI API、安全、开源模型、Embedding、RAG、MCP 等章节提前。
+本目录严格跟随 developer-roadmap 的 ai-engineer 图谱顺序整理。当前按图谱 y 轴从上到下推进，不把后续模型供应商、安全、开源模型、Embedding、RAG、MCP 等章节提前。
 
 ## 章节
 
@@ -19,3 +19,6 @@
 13. [向量数据库：让语义检索跑起来](/ai-engineer/03-context-retrieval-agents/vector-databases)
 14. [RAG：把外部知识接进模型](/ai-engineer/03-context-retrieval-agents/rag)
 15. [AI Agents：能规划和调用工具的系统](/ai-engineer/03-context-retrieval-agents/ai-agents)
+16. [Open AI Models：理解开放模型和 Token](/ai-engineer/04-prompts-context/open-ai-models)
+17. [Prompt Engineering：把意图写成模型能执行的任务](/ai-engineer/04-prompts-context/prompt-engineering)
+18. [Capabilities / Context Length：能力边界和上下文长度](/ai-engineer/04-prompts-context/capabilities-context-length)

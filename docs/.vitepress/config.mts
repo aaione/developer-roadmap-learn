@@ -42,6 +42,14 @@ export default defineConfig({
             { text: 'RAG：把外部知识接进模型', link: '/ai-engineer/03-context-retrieval-agents/rag' },
             { text: 'AI Agents：能规划和调用工具的系统', link: '/ai-engineer/03-context-retrieval-agents/ai-agents' }
           ]
+        },
+        {
+          text: 'Prompts, Models and Context',
+          items: [
+            { text: 'Open AI Models：理解开放模型和 Token', link: '/ai-engineer/04-prompts-context/open-ai-models' },
+            { text: 'Prompt Engineering：把意图写成任务', link: '/ai-engineer/04-prompts-context/prompt-engineering' },
+            { text: '能力边界和上下文长度', link: '/ai-engineer/04-prompts-context/capabilities-context-length' }
+          ]
         }
       ],
       '/logs/': [
@@ -53,7 +61,8 @@ export default defineConfig({
             { text: '2026-06-05 第三次整理', link: '/logs/2026-06-05-run-03' },
             { text: '2026-06-05 既有内容优化', link: '/logs/2026-06-05-run-04' },
             { text: '2026-06-05 Embedding 与 OpenAI 模型', link: '/logs/2026-06-05-run-05' },
-            { text: '2026-06-05 向量检索与 Agent', link: '/logs/2026-06-05-run-06' }
+            { text: '2026-06-05 向量检索与 Agent', link: '/logs/2026-06-05-run-06' },
+            { text: '2026-06-05 开放模型与上下文', link: '/logs/2026-06-05-run-07' }
           ]
         }
       ]

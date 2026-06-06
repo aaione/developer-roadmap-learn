@@ -81,20 +81,38 @@
       "label": "AI Agents",
       "file": "docs/ai-engineer/03-context-retrieval-agents/ai-agents.md",
       "sourceNote": "Graph node label is AI Agents; original reference maps to ai-agents@4_ap0rD9Gl6Ep_4jMfPpG.md because the same-ID source file is titled Context Compaction."
+    },
+    {
+      "id": "2WbVpRLqwi3Oeqk1JPui4",
+      "label": "Open AI Models",
+      "file": "docs/ai-engineer/04-prompts-context/open-ai-models.md",
+      "sourceNote": "Graph node label is Open AI Models; same-ID source file is titled Tokens in Large Language Models, so the chapter keeps graph order and explains open models through token fundamentals."
+    },
+    {
+      "id": "Dc15ayFlzqMF24RqIF_-X",
+      "label": "Prompt Engineering",
+      "file": "docs/ai-engineer/04-prompts-context/prompt-engineering.md",
+      "sourceNote": "Graph node has no same-ID content file; original reference maps to prompt-engineering@VjXmSCdzi2ACv-W85Sy9D.md."
+    },
+    {
+      "id": "vvpYkmycH0_W030E-L12f",
+      "label": "Capabilities / Context Length",
+      "file": "docs/ai-engineer/04-prompts-context/capabilities-context-length.md",
+      "sourceNote": "Graph node label is Capabilities / Context Length; same-ID source file is titled Context."
     }
   ],
   "next": [
     {
-      "id": "2WbVpRLqwi3Oeqk1JPui4",
-      "label": "Open AI Models"
+      "id": "LbB2PeytxRSuU07Bk0KlJ",
+      "label": "Cut-off Dates / Knowledge"
     },
     {
-      "id": "Dc15ayFlzqMF24RqIF_-X",
-      "label": "Prompt Engineering"
+      "id": "_bPTciEA1GT1JwfXim19z",
+      "label": "Chat Completions API"
     },
     {
-      "id": "vvpYkmycH0_W030E-L12f",
-      "label": "Capabilities / Context Length"
+      "id": "hy6EyKiNxk1x84J63dhez",
+      "label": "Anthropic's Claude"
     }
   ]
 }

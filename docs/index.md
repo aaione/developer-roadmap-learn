@@ -11,8 +11,8 @@
 
 ## 当前进度
 
-已按图谱顺序完成 Introduction、Model Basics 以及向量检索到 Agent 的前 15 个小节：
+已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent，以及开放模型、Prompt Engineering、Context Length 的前 18 个小节：
 
 - [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `Open AI Models`、`Prompt Engineering`、`Capabilities / Context Length`。
+下一批将继续图谱中的 `Cut-off Dates / Knowledge`、`Chat Completions API`、`Anthropic's Claude`。
