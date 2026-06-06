@@ -22,3 +22,6 @@
 16. [Open AI Models：理解开放模型和 Token](/ai-engineer/04-prompts-context/open-ai-models)
 17. [Prompt Engineering：把意图写成模型能执行的任务](/ai-engineer/04-prompts-context/prompt-engineering)
 18. [Capabilities / Context Length：能力边界和上下文长度](/ai-engineer/04-prompts-context/capabilities-context-length)
+19. [Cut-off Dates / Knowledge：知识截止日期不是实时记忆](/ai-engineer/04-prompts-context/cut-off-dates-knowledge)
+20. [Chat Completions API：用消息数组组织一次对话](/ai-engineer/04-prompts-context/chat-completions-api)
+21. [Anthropic Claude：偏重安全、长上下文和复杂任务的模型家族](/ai-engineer/04-prompts-context/anthropic-claude)

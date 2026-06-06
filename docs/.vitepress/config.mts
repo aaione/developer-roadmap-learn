@@ -48,7 +48,10 @@ export default defineConfig({
           items: [
             { text: 'Open AI Models：理解开放模型和 Token', link: '/ai-engineer/04-prompts-context/open-ai-models' },
             { text: 'Prompt Engineering：把意图写成任务', link: '/ai-engineer/04-prompts-context/prompt-engineering' },
-            { text: '能力边界和上下文长度', link: '/ai-engineer/04-prompts-context/capabilities-context-length' }
+            { text: '能力边界和上下文长度', link: '/ai-engineer/04-prompts-context/capabilities-context-length' },
+            { text: '知识截止日期不是实时记忆', link: '/ai-engineer/04-prompts-context/cut-off-dates-knowledge' },
+            { text: 'Chat Completions API：消息数组', link: '/ai-engineer/04-prompts-context/chat-completions-api' },
+            { text: 'Anthropic Claude：模型与 API', link: '/ai-engineer/04-prompts-context/anthropic-claude' }
           ]
         }
       ],
@@ -62,7 +65,8 @@ export default defineConfig({
             { text: '2026-06-05 既有内容优化', link: '/logs/2026-06-05-run-04' },
             { text: '2026-06-05 Embedding 与 OpenAI 模型', link: '/logs/2026-06-05-run-05' },
             { text: '2026-06-05 向量检索与 Agent', link: '/logs/2026-06-05-run-06' },
-            { text: '2026-06-05 开放模型与上下文', link: '/logs/2026-06-05-run-07' }
+            { text: '2026-06-05 开放模型与上下文', link: '/logs/2026-06-05-run-07' },
+            { text: '2026-06-06 知识边界与 Claude', link: '/logs/2026-06-06-run-08' }
           ]
         }
       ]

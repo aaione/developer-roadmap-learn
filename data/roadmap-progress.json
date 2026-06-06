@@ -99,20 +99,37 @@
       "label": "Capabilities / Context Length",
       "file": "docs/ai-engineer/04-prompts-context/capabilities-context-length.md",
       "sourceNote": "Graph node label is Capabilities / Context Length; same-ID source file is titled Context."
+    },
+    {
+      "id": "LbB2PeytxRSuU07Bk0KlJ",
+      "label": "Cut-off Dates / Knowledge",
+      "file": "docs/ai-engineer/04-prompts-context/cut-off-dates-knowledge.md",
+      "sourceNote": "Graph node label is Cut-off Dates / Knowledge; same-ID source file is titled Sampling Parameters, so the chapter keeps graph order and explains sampling as part of knowledge-boundary handling."
+    },
+    {
+      "id": "_bPTciEA1GT1JwfXim19z",
+      "label": "Chat Completions API",
+      "file": "docs/ai-engineer/04-prompts-context/chat-completions-api.md",
+      "sourceNote": "Graph node label is Chat Completions API; same-ID source file is titled Temperature, so the chapter keeps graph order and explains temperature through the chat API parameter surface."
+    },
+    {
+      "id": "hy6EyKiNxk1x84J63dhez",
+      "label": "Anthropic's Claude",
+      "file": "docs/ai-engineer/04-prompts-context/anthropic-claude.md"
     }
   ],
   "next": [
     {
-      "id": "LbB2PeytxRSuU07Bk0KlJ",
-      "label": "Cut-off Dates / Knowledge"
+      "id": "9-5DYeOnKJq9XvEMWP45A",
+      "label": "Writing Prompts"
     },
     {
-      "id": "_bPTciEA1GT1JwfXim19z",
-      "label": "Chat Completions API"
+      "id": "oe8E6ZIQWuYvHVbYJHUc1",
+      "label": "Google's Gemini"
     },
     {
-      "id": "hy6EyKiNxk1x84J63dhez",
-      "label": "Anthropic's Claude"
+      "id": "qzvp6YxWDiGakA2mtspfh",
+      "label": "Maximum Tokens"
     }
   ]
 }
