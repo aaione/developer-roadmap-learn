@@ -25,3 +25,6 @@
 19. [Cut-off Dates / Knowledge：知识截止日期不是实时记忆](/ai-engineer/04-prompts-context/cut-off-dates-knowledge)
 20. [Chat Completions API：用消息数组组织一次对话](/ai-engineer/04-prompts-context/chat-completions-api)
 21. [Anthropic Claude：偏重安全、长上下文和复杂任务的模型家族](/ai-engineer/04-prompts-context/anthropic-claude)
+22. [Writing Prompts：把需求写成模型能执行的指令](/ai-engineer/04-prompts-context/writing-prompts)
+23. [Google Gemini：面向多模态和长上下文的模型家族](/ai-engineer/04-prompts-context/google-gemini)
+24. [Maximum Tokens：给输出长度设一个工程上限](/ai-engineer/04-prompts-context/maximum-tokens)

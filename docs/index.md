@@ -11,8 +11,8 @@
 
 ## 当前进度
 
-已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent，以及 Prompts、Context、知识边界、Chat Completions API、Claude 的前 21 个小节：
+已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent，以及 Prompts、Context、知识边界、Chat Completions API、Claude、Writing Prompts、Gemini 和 Maximum Tokens 的前 24 个小节：
 
 - [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `Writing Prompts`、`Google's Gemini`、`Maximum Tokens`。
+下一批将继续图谱中的 `Azure AI`、`AWS Sagemaker`、`Token Counting`。

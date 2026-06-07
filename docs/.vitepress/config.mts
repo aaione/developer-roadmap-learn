@@ -51,7 +51,10 @@ export default defineConfig({
             { text: '能力边界和上下文长度', link: '/ai-engineer/04-prompts-context/capabilities-context-length' },
             { text: '知识截止日期不是实时记忆', link: '/ai-engineer/04-prompts-context/cut-off-dates-knowledge' },
             { text: 'Chat Completions API：消息数组', link: '/ai-engineer/04-prompts-context/chat-completions-api' },
-            { text: 'Anthropic Claude：模型与 API', link: '/ai-engineer/04-prompts-context/anthropic-claude' }
+            { text: 'Anthropic Claude：模型与 API', link: '/ai-engineer/04-prompts-context/anthropic-claude' },
+            { text: 'Writing Prompts：写清任务单', link: '/ai-engineer/04-prompts-context/writing-prompts' },
+            { text: 'Google Gemini：多模态模型家族', link: '/ai-engineer/04-prompts-context/google-gemini' },
+            { text: 'Maximum Tokens：输出长度上限', link: '/ai-engineer/04-prompts-context/maximum-tokens' }
           ]
         }
       ],
@@ -66,7 +69,8 @@ export default defineConfig({
             { text: '2026-06-05 Embedding 与 OpenAI 模型', link: '/logs/2026-06-05-run-05' },
             { text: '2026-06-05 向量检索与 Agent', link: '/logs/2026-06-05-run-06' },
             { text: '2026-06-05 开放模型与上下文', link: '/logs/2026-06-05-run-07' },
-            { text: '2026-06-06 知识边界与 Claude', link: '/logs/2026-06-06-run-08' }
+            { text: '2026-06-06 知识边界与 Claude', link: '/logs/2026-06-06-run-08' },
+            { text: '2026-06-07 Prompt、Gemini 与 Token 上限', link: '/logs/2026-06-07-run-09' }
           ]
         }
       ]
