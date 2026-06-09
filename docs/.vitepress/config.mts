@@ -71,7 +71,10 @@ export default defineConfig({
           items: [
             { text: 'Hugging Face Models：先读模型卡', link: '/ai-engineer/06-openai-api-model-providers/hugging-face-models' },
             { text: 'Pricing Considerations：估算真实成本', link: '/ai-engineer/06-openai-api-model-providers/pricing-considerations' },
-            { text: 'Mistral AI：开放权重与商业 API', link: '/ai-engineer/06-openai-api-model-providers/mistral-ai' }
+            { text: 'Mistral AI：开放权重与商业 API', link: '/ai-engineer/06-openai-api-model-providers/mistral-ai' },
+            { text: 'Cohere：企业检索和生成平台', link: '/ai-engineer/06-openai-api-model-providers/cohere' },
+            { text: 'Replicate：把模型当成 API 试用', link: '/ai-engineer/06-openai-api-model-providers/replicate' },
+            { text: 'OpenAI Playground：调试 Prompt', link: '/ai-engineer/06-openai-api-model-providers/open-ai-playground' }
           ]
         }
       ],
@@ -89,7 +92,8 @@ export default defineConfig({
             { text: '2026-06-06 知识边界与 Claude', link: '/logs/2026-06-06-run-08' },
             { text: '2026-06-07 Prompt、Gemini 与 Token 上限', link: '/logs/2026-06-07-run-09' },
             { text: '2026-06-09 云平台与 Token Counting', link: '/logs/2026-06-09-run-10' },
-            { text: '2026-06-09 Hugging Face、成本与 Mistral', link: '/logs/2026-06-09-run-11' }
+            { text: '2026-06-09 Hugging Face、成本与 Mistral', link: '/logs/2026-06-09-run-11' },
+            { text: '2026-06-09 Cohere、Replicate 与 Playground', link: '/logs/2026-06-09-run-12' }
           ]
         }
       ]

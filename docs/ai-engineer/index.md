@@ -34,3 +34,6 @@
 28. [Hugging Face Models：先从任务和模型卡判断能不能用](/ai-engineer/06-openai-api-model-providers/hugging-face-models)
 29. [怎么估算一次 AI 功能的真实成本](/ai-engineer/06-openai-api-model-providers/pricing-considerations)
 30. [Mistral AI：开放权重和商业 API 之间的模型平台](/ai-engineer/06-openai-api-model-providers/mistral-ai)
+31. [Cohere：面向企业检索和生成的模型平台](/ai-engineer/06-openai-api-model-providers/cohere)
+32. [Replicate：把模型当成 API 快速试用和部署](/ai-engineer/06-openai-api-model-providers/replicate)
+33. [怎么用 OpenAI Playground 调试 Prompt](/ai-engineer/06-openai-api-model-providers/open-ai-playground)

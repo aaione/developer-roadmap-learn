@@ -168,20 +168,37 @@
       "id": "n-Ud2dXkqIzK37jlKItN4",
       "label": "Mistral AI",
       "file": "docs/ai-engineer/06-openai-api-model-providers/mistral-ai.md"
+    },
+    {
+      "id": "a7qsvoauFe5u953I699ps",
+      "label": "Cohere",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/cohere.md"
+    },
+    {
+      "id": "c0RPhpD00VIUgF4HJgN2T",
+      "label": "Replicate",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/replicate.md",
+      "sourceNote": "Graph node label is Replicate; same-ID source file is titled Qwen, so the chapter keeps graph order and explains Replicate."
+    },
+    {
+      "id": "nyBgEHvUhwF-NANMwkRJW",
+      "label": "Open AI Playground",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/open-ai-playground.md",
+      "sourceNote": "Graph node label is Open AI Playground; same-ID source file is titled Chain-of-Thought Prompting, so the chapter keeps graph order and explains Playground while preserving CoT as a prompt-debugging idea."
     }
   ],
   "next": [
     {
-      "id": "a7qsvoauFe5u953I699ps",
-      "label": "Cohere"
+      "id": "15XOFdVp0IC-kLYPXUJWh",
+      "label": "Fine-tuning"
     },
     {
-      "id": "c0RPhpD00VIUgF4HJgN2T",
-      "label": "Replicate"
+      "id": "cUyLT6ctYQ1pgmodCKREq",
+      "label": "Prompt Injection Attacks"
     },
     {
-      "id": "nyBgEHvUhwF-NANMwkRJW",
-      "label": "Open AI Playground"
+      "id": "sWBT-j2cRuFqRFYtV_5TK",
+      "label": "Security and Privacy Concerns"
     }
   ]
 }
