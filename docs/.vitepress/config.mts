@@ -57,6 +57,14 @@ export default defineConfig({
             { text: 'Google Gemini：多模态模型家族', link: '/ai-engineer/04-prompts-context/google-gemini' },
             { text: 'Maximum Tokens：输出长度上限', link: '/ai-engineer/04-prompts-context/maximum-tokens' }
           ]
+        },
+        {
+          text: 'Cloud Model Platforms',
+          items: [
+            { text: 'Azure AI：云端 AI 工程平台', link: '/ai-engineer/05-cloud-model-platforms/azure-ai' },
+            { text: 'AWS SageMaker：模型生命周期工作台', link: '/ai-engineer/05-cloud-model-platforms/aws-sagemaker' },
+            { text: 'Token Counting：先算容量再发请求', link: '/ai-engineer/05-cloud-model-platforms/token-counting' }
+          ]
         }
       ],
       '/logs/': [
@@ -71,7 +79,8 @@ export default defineConfig({
             { text: '2026-06-05 向量检索与 Agent', link: '/logs/2026-06-05-run-06' },
             { text: '2026-06-05 开放模型与上下文', link: '/logs/2026-06-05-run-07' },
             { text: '2026-06-06 知识边界与 Claude', link: '/logs/2026-06-06-run-08' },
-            { text: '2026-06-07 Prompt、Gemini 与 Token 上限', link: '/logs/2026-06-07-run-09' }
+            { text: '2026-06-07 Prompt、Gemini 与 Token 上限', link: '/logs/2026-06-07-run-09' },
+            { text: '2026-06-09 云平台与 Token Counting', link: '/logs/2026-06-09-run-10' }
           ]
         }
       ]

@@ -28,3 +28,6 @@
 22. [Writing Prompts：把需求写成模型能执行的指令](/ai-engineer/04-prompts-context/writing-prompts)
 23. [Google Gemini：面向多模态和长上下文的模型家族](/ai-engineer/04-prompts-context/google-gemini)
 24. [Maximum Tokens：给输出长度设一个工程上限](/ai-engineer/04-prompts-context/maximum-tokens)
+25. [Azure AI：把模型、工具和治理放进同一个工程平台](/ai-engineer/05-cloud-model-platforms/azure-ai)
+26. [AWS SageMaker：从实验到部署的机器学习工作台](/ai-engineer/05-cloud-model-platforms/aws-sagemaker)
+27. [Token Counting：先算容量，再发请求](/ai-engineer/05-cloud-model-platforms/token-counting)

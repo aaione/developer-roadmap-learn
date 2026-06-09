@@ -133,20 +133,38 @@
       "label": "Maximum Tokens",
       "file": "docs/ai-engineer/04-prompts-context/maximum-tokens.md",
       "sourceNote": "Graph node label is Maximum Tokens; same-ID source file is titled Top-K Sampling, so the chapter keeps graph order and explains token output limits while retaining Top-K's role in generation controls."
+    },
+    {
+      "id": "3PQVZbcr4neNMRr6CuNzS",
+      "label": "Azure AI",
+      "file": "docs/ai-engineer/05-cloud-model-platforms/azure-ai.md",
+      "sourceNote": "Graph node label is Azure AI; same-ID source file is titled OpenAI Models (GPT, o-series), so the chapter keeps graph order and explains Azure AI while preserving the cloud API model-access idea."
+    },
+    {
+      "id": "OkYO-aSPiuVYuLXHswBCn",
+      "label": "AWS Sagemaker",
+      "file": "docs/ai-engineer/05-cloud-model-platforms/aws-sagemaker.md",
+      "sourceNote": "Graph node label is AWS Sagemaker; same-ID source file is titled Meta Llama, so the chapter keeps graph order and explains SageMaker while noting its foundation-model deployment path."
+    },
+    {
+      "id": "FjV3oD7G2Ocq5HhUC17iH",
+      "label": "Token Counting",
+      "file": "docs/ai-engineer/05-cloud-model-platforms/token-counting.md",
+      "sourceNote": "Graph node label is Token Counting; same-ID source file is titled Top-P Sampling, so the chapter keeps graph order and separates token counting from sampling controls."
     }
   ],
   "next": [
     {
-      "id": "3PQVZbcr4neNMRr6CuNzS",
-      "label": "Azure AI"
+      "id": "8XjkRqHOdyH-DbXHYiBEt",
+      "label": "Hugging Face Models"
     },
     {
-      "id": "OkYO-aSPiuVYuLXHswBCn",
-      "label": "AWS Sagemaker"
+      "id": "DZPM9zjCbYYWBPLmQImxQ",
+      "label": "Pricing Considerations"
     },
     {
-      "id": "FjV3oD7G2Ocq5HhUC17iH",
-      "label": "Token Counting"
+      "id": "n-Ud2dXkqIzK37jlKItN4",
+      "label": "Mistral AI"
     }
   ]
 }

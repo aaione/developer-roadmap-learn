@@ -6,13 +6,13 @@
 
 - 按原始图谱从上到下推进，不自行调整学习顺序。
 - 每次只处理一批章节，方便复查和增量更新。
-- 每篇文章都包含学习目标、概念解释、实践建议、常见误区和延伸阅读。
+- 每篇文章先判断文档类型，再采用解释、教程、操作指南或参考结构。
 - 配图放在 `docs/public/images/ai-engineer/`，文章用 `/images/ai-engineer/...` 引用。
 
 ## 当前进度
 
-已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent，以及 Prompts、Context、知识边界、Chat Completions API、Claude、Writing Prompts、Gemini 和 Maximum Tokens 的前 24 个小节：
+已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent、Prompts / Context，以及 Azure AI、AWS SageMaker、Token Counting 的前 27 个小节：
 
 - [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `Azure AI`、`AWS Sagemaker`、`Token Counting`。
+下一批将继续图谱中的 `Hugging Face Models`、`Pricing Considerations`、`Mistral AI`。
