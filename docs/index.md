@@ -11,8 +11,8 @@
 
 ## 当前进度
 
-已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent、Prompts / Context，以及 Azure AI、AWS SageMaker、Token Counting 的前 27 个小节：
+已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent、Prompts / Context、云平台，以及 Hugging Face Models、Pricing Considerations、Mistral AI 的前 30 个小节：
 
 - [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `Hugging Face Models`、`Pricing Considerations`、`Mistral AI`。
+下一批将继续图谱中的 `Cohere`、`Replicate`、`Open AI Playground`。

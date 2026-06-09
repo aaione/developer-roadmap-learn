@@ -31,3 +31,6 @@
 25. [Azure AI：把模型、工具和治理放进同一个工程平台](/ai-engineer/05-cloud-model-platforms/azure-ai)
 26. [AWS SageMaker：从实验到部署的机器学习工作台](/ai-engineer/05-cloud-model-platforms/aws-sagemaker)
 27. [Token Counting：先算容量，再发请求](/ai-engineer/05-cloud-model-platforms/token-counting)
+28. [Hugging Face Models：先从任务和模型卡判断能不能用](/ai-engineer/06-openai-api-model-providers/hugging-face-models)
+29. [怎么估算一次 AI 功能的真实成本](/ai-engineer/06-openai-api-model-providers/pricing-considerations)
+30. [Mistral AI：开放权重和商业 API 之间的模型平台](/ai-engineer/06-openai-api-model-providers/mistral-ai)

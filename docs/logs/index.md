@@ -10,3 +10,4 @@
 - [2026-06-06 知识边界与 Claude](/logs/2026-06-06-run-08)
 - [2026-06-07 Prompt、Gemini 与 Token 上限](/logs/2026-06-07-run-09)
 - [2026-06-09 云平台与 Token Counting](/logs/2026-06-09-run-10)
+- [2026-06-09 Hugging Face、成本与 Mistral](/logs/2026-06-09-run-11)

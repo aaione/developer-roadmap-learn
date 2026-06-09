@@ -151,20 +151,37 @@
       "label": "Token Counting",
       "file": "docs/ai-engineer/05-cloud-model-platforms/token-counting.md",
       "sourceNote": "Graph node label is Token Counting; same-ID source file is titled Top-P Sampling, so the chapter keeps graph order and separates token counting from sampling controls."
+    },
+    {
+      "id": "8XjkRqHOdyH-DbXHYiBEt",
+      "label": "Hugging Face Models",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/hugging-face-models.md",
+      "sourceNote": "Graph node has no same-ID content file; original reference maps to hugging-face-models@EIDbwbdolR_qsNKVDla6V.md."
+    },
+    {
+      "id": "DZPM9zjCbYYWBPLmQImxQ",
+      "label": "Pricing Considerations",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/pricing-considerations.md",
+      "sourceNote": "Graph node label is Pricing Considerations; same-ID source file is titled Few-Shot Prompting, so the chapter keeps graph order and explains cost through token, examples, retries, caching, and deployment pricing."
+    },
+    {
+      "id": "n-Ud2dXkqIzK37jlKItN4",
+      "label": "Mistral AI",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/mistral-ai.md"
     }
   ],
   "next": [
     {
-      "id": "8XjkRqHOdyH-DbXHYiBEt",
-      "label": "Hugging Face Models"
+      "id": "a7qsvoauFe5u953I699ps",
+      "label": "Cohere"
     },
     {
-      "id": "DZPM9zjCbYYWBPLmQImxQ",
-      "label": "Pricing Considerations"
+      "id": "c0RPhpD00VIUgF4HJgN2T",
+      "label": "Replicate"
     },
     {
-      "id": "n-Ud2dXkqIzK37jlKItN4",
-      "label": "Mistral AI"
+      "id": "nyBgEHvUhwF-NANMwkRJW",
+      "label": "Open AI Playground"
     }
   ]
 }
