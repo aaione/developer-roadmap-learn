@@ -37,3 +37,6 @@
 31. [Cohere：面向企业检索和生成的模型平台](/ai-engineer/06-openai-api-model-providers/cohere)
 32. [Replicate：把模型当成 API 快速试用和部署](/ai-engineer/06-openai-api-model-providers/replicate)
 33. [怎么用 OpenAI Playground 调试 Prompt](/ai-engineer/06-openai-api-model-providers/open-ai-playground)
+34. [Fine-tuning：让预训练模型贴近你的任务](/ai-engineer/06-openai-api-model-providers/fine-tuning)
+35. [Prompt Injection Attacks：恶意输入怎样改写模型行为](/ai-engineer/07-ai-safety-ethics/prompt-injection-attacks)
+36. [Security and Privacy Concerns：AI 功能先守住数据边界](/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns)

@@ -185,20 +185,36 @@
       "label": "Open AI Playground",
       "file": "docs/ai-engineer/06-openai-api-model-providers/open-ai-playground.md",
       "sourceNote": "Graph node label is Open AI Playground; same-ID source file is titled Chain-of-Thought Prompting, so the chapter keeps graph order and explains Playground while preserving CoT as a prompt-debugging idea."
+    },
+    {
+      "id": "15XOFdVp0IC-kLYPXUJWh",
+      "label": "Fine-tuning",
+      "file": "docs/ai-engineer/06-openai-api-model-providers/fine-tuning.md",
+      "sourceNote": "Graph node label is Fine-tuning; same-ID source file is titled Zero Shot Prompting, so the chapter keeps graph order and maps original reference to fine-tuning@zTvsCNS3ucsZmvy1tHyeI.md."
+    },
+    {
+      "id": "cUyLT6ctYQ1pgmodCKREq",
+      "label": "Prompt Injection Attacks",
+      "file": "docs/ai-engineer/07-ai-safety-ethics/prompt-injection-attacks.md"
+    },
+    {
+      "id": "sWBT-j2cRuFqRFYtV_5TK",
+      "label": "Security and Privacy Concerns",
+      "file": "docs/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns.md"
     }
   ],
   "next": [
     {
-      "id": "15XOFdVp0IC-kLYPXUJWh",
-      "label": "Fine-tuning"
+      "id": "lhIU0ulpvDAn1Xc3ooYz_",
+      "label": "Bias and Fairness"
     },
     {
-      "id": "cUyLT6ctYQ1pgmodCKREq",
-      "label": "Prompt Injection Attacks"
+      "id": "RBwGsq9DngUsl8PrrCbqx",
+      "label": "Open vs Closed Source Models"
     },
     {
-      "id": "sWBT-j2cRuFqRFYtV_5TK",
-      "label": "Security and Privacy Concerns"
+      "id": "97eu-XxYUH9pYbD_KjAtA",
+      "label": "Popular Open Source Models"
     }
   ]
 }

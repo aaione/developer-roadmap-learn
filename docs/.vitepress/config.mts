@@ -74,7 +74,15 @@ export default defineConfig({
             { text: 'Mistral AI：开放权重与商业 API', link: '/ai-engineer/06-openai-api-model-providers/mistral-ai' },
             { text: 'Cohere：企业检索和生成平台', link: '/ai-engineer/06-openai-api-model-providers/cohere' },
             { text: 'Replicate：把模型当成 API 试用', link: '/ai-engineer/06-openai-api-model-providers/replicate' },
-            { text: 'OpenAI Playground：调试 Prompt', link: '/ai-engineer/06-openai-api-model-providers/open-ai-playground' }
+            { text: 'OpenAI Playground：调试 Prompt', link: '/ai-engineer/06-openai-api-model-providers/open-ai-playground' },
+            { text: 'Fine-tuning：让模型贴近任务', link: '/ai-engineer/06-openai-api-model-providers/fine-tuning' }
+          ]
+        },
+        {
+          text: 'AI Safety and Ethics',
+          items: [
+            { text: 'Prompt Injection Attacks：恶意输入改写模型行为', link: '/ai-engineer/07-ai-safety-ethics/prompt-injection-attacks' },
+            { text: 'Security and Privacy Concerns：守住数据边界', link: '/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns' }
           ]
         }
       ],
@@ -93,7 +101,8 @@ export default defineConfig({
             { text: '2026-06-07 Prompt、Gemini 与 Token 上限', link: '/logs/2026-06-07-run-09' },
             { text: '2026-06-09 云平台与 Token Counting', link: '/logs/2026-06-09-run-10' },
             { text: '2026-06-09 Hugging Face、成本与 Mistral', link: '/logs/2026-06-09-run-11' },
-            { text: '2026-06-09 Cohere、Replicate 与 Playground', link: '/logs/2026-06-09-run-12' }
+            { text: '2026-06-09 Cohere、Replicate 与 Playground', link: '/logs/2026-06-09-run-12' },
+            { text: '2026-06-10 Fine-tuning 与 AI 安全', link: '/logs/2026-06-10-run-13' }
           ]
         }
       ]

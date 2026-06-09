@@ -11,8 +11,8 @@
 
 ## 当前进度
 
-已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent、Prompts / Context、云平台，以及 OpenAI API and Model Providers 的前 33 个小节：
+已按图谱顺序完成 Introduction、Model Basics、向量检索到 Agent、Prompts / Context、云平台、OpenAI API and Model Providers，以及 AI Safety and Ethics 的前 36 个小节：
 
 - [AI Engineer 章节目录](/ai-engineer/)
 
-下一批将继续图谱中的 `Fine-tuning`、`Prompt Injection Attacks`、`Security and Privacy Concerns`。
+下一批将继续图谱中的 `Bias and Fairness`、`Open vs Closed Source Models`、`Popular Open Source Models`。
