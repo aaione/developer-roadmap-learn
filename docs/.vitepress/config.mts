@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'AI Engineer Roadmap',
   description: '按照 roadmap.sh AI Engineer 图谱整理的中文学习笔记',
   lang: 'zh-CN',
+  base: '/developer-roadmap-learn/',
   cleanUrls: true,
   themeConfig: {
     nav: [
