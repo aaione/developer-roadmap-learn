@@ -233,20 +233,35 @@
       "id": "Pt-AJmSJrOxKvolb5_HEv",
       "label": "Conducting adversarial testing",
       "file": "docs/ai-engineer/09-safety-operations/conducting-adversarial-testing.md"
+    },
+    {
+      "id": "qmx6OHqx4_0JXVIv8dASp",
+      "label": "Robust prompt engineering",
+      "file": "docs/ai-engineer/10-prompt-robustness/robust-prompt-engineering.md"
+    },
+    {
+      "id": "t1SObMWkDZ1cKqNNlcd9L",
+      "label": "Know your Customers / Usecases",
+      "file": "docs/ai-engineer/10-prompt-robustness/know-your-customers-usecases.md"
+    },
+    {
+      "id": "ONLDyczNacGVZGojYyJrU",
+      "label": "Constraining outputs and inputs",
+      "file": "docs/ai-engineer/10-prompt-robustness/constraining-outputs-and-inputs.md"
     }
   ],
   "next": [
     {
-      "id": "qmx6OHqx4_0JXVIv8dASp",
-      "label": "Robust prompt engineering"
+      "id": "YKIPOiSj_FNtg0h8uaSMq",
+      "label": "Hugging Face Tasks"
     },
     {
-      "id": "t1SObMWkDZ1cKqNNlcd9L",
-      "label": "Know your Customers / Usecases"
+      "id": "YLOdOvLXa5Fa7_mmuvKEi",
+      "label": "Hugging Face Hub"
     },
     {
-      "id": "ONLDyczNacGVZGojYyJrU",
-      "label": "Constraining outputs and inputs"
+      "id": "3kRTzlLNBnXdTsAEXVu_M",
+      "label": "Inference SDK"
     }
   ],
   "projectScope": {

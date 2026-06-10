@@ -100,6 +100,14 @@ export default defineConfig({
             { text: 'Adding end-user IDs：安全标识', link: '/ai-engineer/09-safety-operations/adding-end-user-ids-in-prompts' },
             { text: 'Conducting adversarial testing：对抗测试', link: '/ai-engineer/09-safety-operations/conducting-adversarial-testing' }
           ]
+        },
+        {
+          text: 'Prompt Robustness',
+          items: [
+            { text: 'Robust prompt engineering：写得更稳', link: '/ai-engineer/10-prompt-robustness/robust-prompt-engineering' },
+            { text: 'Know your Customers / Usecases：定义用户和场景', link: '/ai-engineer/10-prompt-robustness/know-your-customers-usecases' },
+            { text: 'Constraining outputs and inputs：约束输入输出', link: '/ai-engineer/10-prompt-robustness/constraining-outputs-and-inputs' }
+          ]
         }
       ],
       '/logs/': [
@@ -121,7 +129,8 @@ export default defineConfig({
             { text: '2026-06-10 Fine-tuning 与 AI 安全', link: '/logs/2026-06-10-run-13' },
             { text: '2026-06-10 公平性与开放模型', link: '/logs/2026-06-10-run-14' },
             { text: '2026-06-10 内容安全与对抗测试', link: '/logs/2026-06-10-run-15' },
-            { text: '2026-06-10 项目范围与大分类记录调整', link: '/logs/2026-06-10-run-16' }
+            { text: '2026-06-10 项目范围与大分类记录调整', link: '/logs/2026-06-10-run-16' },
+            { text: '2026-06-11 Prompt 稳健性与输入输出约束', link: '/logs/2026-06-11-run-17' }
           ]
         }
       ]

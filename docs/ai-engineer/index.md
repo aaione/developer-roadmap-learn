@@ -46,3 +46,6 @@
 40. [OpenAI Moderation API：把内容安全检查接进链路](/ai-engineer/09-safety-operations/openai-moderation-api)
 41. [Adding end-user IDs：用安全标识追踪滥用](/ai-engineer/09-safety-operations/adding-end-user-ids-in-prompts)
 42. [怎么做一次 AI 功能的对抗测试](/ai-engineer/09-safety-operations/conducting-adversarial-testing)
+43. [怎么把 Prompt 写得更稳](/ai-engineer/10-prompt-robustness/robust-prompt-engineering)
+44. [Know your Customers / Usecases：先定义谁在什么场景下用](/ai-engineer/10-prompt-robustness/know-your-customers-usecases)
+45. [怎么约束模型的输入和输出](/ai-engineer/10-prompt-robustness/constraining-outputs-and-inputs)
