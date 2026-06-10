@@ -43,3 +43,6 @@
 37. [Bias and Fairness：让模型输出少一点系统性偏差](/ai-engineer/07-ai-safety-ethics/bias-and-fairness)
 38. [Open vs Closed Source Models：控制权和省心程度的取舍](/ai-engineer/08-opensource-ai/open-vs-closed-source-models)
 39. [Popular Open Source Models：先认识主流开放模型家族](/ai-engineer/08-opensource-ai/popular-open-source-models)
+40. [OpenAI Moderation API：把内容安全检查接进链路](/ai-engineer/09-safety-operations/openai-moderation-api)
+41. [Adding end-user IDs：用安全标识追踪滥用](/ai-engineer/09-safety-operations/adding-end-user-ids-in-prompts)
+42. [怎么做一次 AI 功能的对抗测试](/ai-engineer/09-safety-operations/conducting-adversarial-testing)

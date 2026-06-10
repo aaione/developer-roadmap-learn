@@ -217,20 +217,49 @@
       "label": "Popular Open Source Models",
       "file": "docs/ai-engineer/08-opensource-ai/popular-open-source-models.md",
       "sourceNote": "Graph node has no dedicated same-ID content file; original reference links to ai-engineer.json so the graph node remains traceable."
+    },
+    {
+      "id": "ljZLa3yjQpegiZWwtnn_q",
+      "label": "OpenAI Moderation API",
+      "file": "docs/ai-engineer/09-safety-operations/openai-moderation-api.md",
+      "sourceNote": "Graph node label is OpenAI Moderation API; same-ID source file is titled Content Moderation APIs."
+    },
+    {
+      "id": "4Q5x2VCXedAWISBXUIyin",
+      "label": "Adding end-user IDs in prompts",
+      "file": "docs/ai-engineer/09-safety-operations/adding-end-user-ids-in-prompts.md"
+    },
+    {
+      "id": "Pt-AJmSJrOxKvolb5_HEv",
+      "label": "Conducting adversarial testing",
+      "file": "docs/ai-engineer/09-safety-operations/conducting-adversarial-testing.md"
     }
   ],
   "next": [
     {
-      "id": "ljZLa3yjQpegiZWwtnn_q",
-      "label": "OpenAI Moderation API"
+      "id": "qmx6OHqx4_0JXVIv8dASp",
+      "label": "Robust prompt engineering"
     },
     {
-      "id": "4Q5x2VCXedAWISBXUIyin",
-      "label": "Adding end-user IDs in prompts"
+      "id": "t1SObMWkDZ1cKqNNlcd9L",
+      "label": "Know your Customers / Usecases"
     },
     {
-      "id": "Pt-AJmSJrOxKvolb5_HEv",
-      "label": "Conducting adversarial testing"
+      "id": "ONLDyczNacGVZGojYyJrU",
+      "label": "Constraining outputs and inputs"
     }
-  ]
+  ],
+  "projectScope": {
+    "sourceRoot": "developer-roadmap/src/data/roadmaps",
+    "outputProject": "developer-roadmap-learn",
+    "categoryUnit": "Each directory under src/data/roadmaps is treated as a top-level ebook category.",
+    "currentCategory": "ai-engineer",
+    "currentCategoryTitle": "AI Engineer",
+    "currentCategoryStatus": "in_progress",
+    "currentCategorySource": "developer-roadmap/src/data/roadmaps/ai-engineer/ai-engineer.json",
+    "nextCategoryPolicy": "Finish the current category before starting another roadmap unless the automation prompt explicitly reprioritizes the category order.",
+    "backlogDescription": "All other roadmap directories under src/data/roadmaps remain future ebook categories."
+  },
+  "sourceRoot": "developer-roadmap/src/data/roadmaps",
+  "currentCategory": "ai-engineer"
 }

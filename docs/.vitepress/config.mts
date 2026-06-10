@@ -92,6 +92,14 @@ export default defineConfig({
             { text: 'Open vs Closed Source Models：控制权与省心程度', link: '/ai-engineer/08-opensource-ai/open-vs-closed-source-models' },
             { text: 'Popular Open Source Models：主流开放模型家族', link: '/ai-engineer/08-opensource-ai/popular-open-source-models' }
           ]
+        },
+        {
+          text: 'Safety Operations',
+          items: [
+            { text: 'OpenAI Moderation API：内容安全闸门', link: '/ai-engineer/09-safety-operations/openai-moderation-api' },
+            { text: 'Adding end-user IDs：安全标识', link: '/ai-engineer/09-safety-operations/adding-end-user-ids-in-prompts' },
+            { text: 'Conducting adversarial testing：对抗测试', link: '/ai-engineer/09-safety-operations/conducting-adversarial-testing' }
+          ]
         }
       ],
       '/logs/': [
@@ -111,7 +119,8 @@ export default defineConfig({
             { text: '2026-06-09 Hugging Face、成本与 Mistral', link: '/logs/2026-06-09-run-11' },
             { text: '2026-06-09 Cohere、Replicate 与 Playground', link: '/logs/2026-06-09-run-12' },
             { text: '2026-06-10 Fine-tuning 与 AI 安全', link: '/logs/2026-06-10-run-13' },
-            { text: '2026-06-10 公平性与开放模型', link: '/logs/2026-06-10-run-14' }
+            { text: '2026-06-10 公平性与开放模型', link: '/logs/2026-06-10-run-14' },
+            { text: '2026-06-10 内容安全与对抗测试', link: '/logs/2026-06-10-run-15' }
           ]
         }
       ]
