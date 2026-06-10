@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  title: 'AI Engineer Roadmap',
-  description: '按照 roadmap.sh AI Engineer 图谱整理的中文学习笔记',
+  title: 'Developer Roadmap Learn',
+  description: '把 developer-roadmap 各技术路线图整理成中文体系化电子书',
   lang: 'zh-CN',
   base: '/developer-roadmap-learn/',
   cleanUrls: true,
@@ -120,7 +120,8 @@ export default defineConfig({
             { text: '2026-06-09 Cohere、Replicate 与 Playground', link: '/logs/2026-06-09-run-12' },
             { text: '2026-06-10 Fine-tuning 与 AI 安全', link: '/logs/2026-06-10-run-13' },
             { text: '2026-06-10 公平性与开放模型', link: '/logs/2026-06-10-run-14' },
-            { text: '2026-06-10 内容安全与对抗测试', link: '/logs/2026-06-10-run-15' }
+            { text: '2026-06-10 内容安全与对抗测试', link: '/logs/2026-06-10-run-15' },
+            { text: '2026-06-10 项目范围与大分类记录调整', link: '/logs/2026-06-10-run-16' }
           ]
         }
       ]
