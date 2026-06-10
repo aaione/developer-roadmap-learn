@@ -82,7 +82,15 @@ export default defineConfig({
           text: 'AI Safety and Ethics',
           items: [
             { text: 'Prompt Injection Attacks：恶意输入改写模型行为', link: '/ai-engineer/07-ai-safety-ethics/prompt-injection-attacks' },
-            { text: 'Security and Privacy Concerns：守住数据边界', link: '/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns' }
+            { text: 'Security and Privacy Concerns：守住数据边界', link: '/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns' },
+            { text: 'Bias and Fairness：减少系统性偏差', link: '/ai-engineer/07-ai-safety-ethics/bias-and-fairness' }
+          ]
+        },
+        {
+          text: 'OpenSource AI',
+          items: [
+            { text: 'Open vs Closed Source Models：控制权与省心程度', link: '/ai-engineer/08-opensource-ai/open-vs-closed-source-models' },
+            { text: 'Popular Open Source Models：主流开放模型家族', link: '/ai-engineer/08-opensource-ai/popular-open-source-models' }
           ]
         }
       ],
@@ -102,7 +110,8 @@ export default defineConfig({
             { text: '2026-06-09 云平台与 Token Counting', link: '/logs/2026-06-09-run-10' },
             { text: '2026-06-09 Hugging Face、成本与 Mistral', link: '/logs/2026-06-09-run-11' },
             { text: '2026-06-09 Cohere、Replicate 与 Playground', link: '/logs/2026-06-09-run-12' },
-            { text: '2026-06-10 Fine-tuning 与 AI 安全', link: '/logs/2026-06-10-run-13' }
+            { text: '2026-06-10 Fine-tuning 与 AI 安全', link: '/logs/2026-06-10-run-13' },
+            { text: '2026-06-10 公平性与开放模型', link: '/logs/2026-06-10-run-14' }
           ]
         }
       ]

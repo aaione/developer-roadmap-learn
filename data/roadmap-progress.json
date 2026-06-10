@@ -201,20 +201,36 @@
       "id": "sWBT-j2cRuFqRFYtV_5TK",
       "label": "Security and Privacy Concerns",
       "file": "docs/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns.md"
+    },
+    {
+      "id": "lhIU0ulpvDAn1Xc3ooYz_",
+      "label": "Bias and Fairness",
+      "file": "docs/ai-engineer/07-ai-safety-ethics/bias-and-fairness.md"
+    },
+    {
+      "id": "RBwGsq9DngUsl8PrrCbqx",
+      "label": "Open vs Closed Source Models",
+      "file": "docs/ai-engineer/08-opensource-ai/open-vs-closed-source-models.md"
+    },
+    {
+      "id": "97eu-XxYUH9pYbD_KjAtA",
+      "label": "Popular Open Source Models",
+      "file": "docs/ai-engineer/08-opensource-ai/popular-open-source-models.md",
+      "sourceNote": "Graph node has no dedicated same-ID content file; original reference links to ai-engineer.json so the graph node remains traceable."
     }
   ],
   "next": [
     {
-      "id": "lhIU0ulpvDAn1Xc3ooYz_",
-      "label": "Bias and Fairness"
+      "id": "ljZLa3yjQpegiZWwtnn_q",
+      "label": "OpenAI Moderation API"
     },
     {
-      "id": "RBwGsq9DngUsl8PrrCbqx",
-      "label": "Open vs Closed Source Models"
+      "id": "4Q5x2VCXedAWISBXUIyin",
+      "label": "Adding end-user IDs in prompts"
     },
     {
-      "id": "97eu-XxYUH9pYbD_KjAtA",
-      "label": "Popular Open Source Models"
+      "id": "Pt-AJmSJrOxKvolb5_HEv",
+      "label": "Conducting adversarial testing"
     }
   ]
 }

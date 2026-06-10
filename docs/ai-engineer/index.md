@@ -40,3 +40,6 @@
 34. [Fine-tuning：让预训练模型贴近你的任务](/ai-engineer/06-openai-api-model-providers/fine-tuning)
 35. [Prompt Injection Attacks：恶意输入怎样改写模型行为](/ai-engineer/07-ai-safety-ethics/prompt-injection-attacks)
 36. [Security and Privacy Concerns：AI 功能先守住数据边界](/ai-engineer/07-ai-safety-ethics/security-and-privacy-concerns)
+37. [Bias and Fairness：让模型输出少一点系统性偏差](/ai-engineer/07-ai-safety-ethics/bias-and-fairness)
+38. [Open vs Closed Source Models：控制权和省心程度的取舍](/ai-engineer/08-opensource-ai/open-vs-closed-source-models)
+39. [Popular Open Source Models：先认识主流开放模型家族](/ai-engineer/08-opensource-ai/popular-open-source-models)

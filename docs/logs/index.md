@@ -13,3 +13,4 @@
 - [2026-06-09 Hugging Face、成本与 Mistral](/logs/2026-06-09-run-11)
 - [2026-06-09 Cohere、Replicate 与 Playground](/logs/2026-06-09-run-12)
 - [2026-06-10 Fine-tuning 与 AI 安全](/logs/2026-06-10-run-13)
+- [2026-06-10 公平性与开放模型](/logs/2026-06-10-run-14)
