@@ -108,6 +108,14 @@ export default defineConfig({
             { text: 'Know your Customers / Usecases：定义用户和场景', link: '/ai-engineer/10-prompt-robustness/know-your-customers-usecases' },
             { text: 'Constraining outputs and inputs：约束输入输出', link: '/ai-engineer/10-prompt-robustness/constraining-outputs-and-inputs' }
           ]
+        },
+        {
+          text: 'Hugging Face Open Models',
+          items: [
+            { text: 'Hugging Face Tasks：先按任务找模型', link: '/ai-engineer/11-hugging-face-open-models/hugging-face-tasks' },
+            { text: 'Hugging Face Hub：协作仓库', link: '/ai-engineer/11-hugging-face-open-models/hugging-face-hub' },
+            { text: 'Inference SDK：接入托管推理', link: '/ai-engineer/11-hugging-face-open-models/inference-sdk' }
+          ]
         }
       ],
       '/logs/': [
@@ -130,7 +138,8 @@ export default defineConfig({
             { text: '2026-06-10 公平性与开放模型', link: '/logs/2026-06-10-run-14' },
             { text: '2026-06-10 内容安全与对抗测试', link: '/logs/2026-06-10-run-15' },
             { text: '2026-06-10 项目范围与大分类记录调整', link: '/logs/2026-06-10-run-16' },
-            { text: '2026-06-11 Prompt 稳健性与输入输出约束', link: '/logs/2026-06-11-run-17' }
+            { text: '2026-06-11 Prompt 稳健性与输入输出约束', link: '/logs/2026-06-11-run-17' },
+            { text: '2026-06-11 Hugging Face Tasks、Hub 与 Inference SDK', link: '/logs/2026-06-11-run-18' }
           ]
         }
       ]

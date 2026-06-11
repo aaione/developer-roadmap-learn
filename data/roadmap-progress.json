@@ -248,20 +248,37 @@
       "id": "ONLDyczNacGVZGojYyJrU",
       "label": "Constraining outputs and inputs",
       "file": "docs/ai-engineer/10-prompt-robustness/constraining-outputs-and-inputs.md"
+    },
+    {
+      "id": "YKIPOiSj_FNtg0h8uaSMq",
+      "label": "Hugging Face Tasks",
+      "file": "docs/ai-engineer/11-hugging-face-open-models/hugging-face-tasks.md"
+    },
+    {
+      "id": "YLOdOvLXa5Fa7_mmuvKEi",
+      "label": "Hugging Face Hub",
+      "file": "docs/ai-engineer/11-hugging-face-open-models/hugging-face-hub.md"
+    },
+    {
+      "id": "3kRTzlLNBnXdTsAEXVu_M",
+      "label": "Inference SDK",
+      "file": "docs/ai-engineer/11-hugging-face-open-models/inference-sdk.md"
     }
   ],
   "next": [
     {
-      "id": "YKIPOiSj_FNtg0h8uaSMq",
-      "label": "Hugging Face Tasks"
+      "id": "bGLrbpxKgENe2xS1eQtdh",
+      "label": "Transformers.js"
     },
     {
-      "id": "YLOdOvLXa5Fa7_mmuvKEi",
-      "label": "Hugging Face Hub"
+      "id": "y0qD5Kb4Pf-ymIwW-tvhX",
+      "label": "Open AI Embedding Models",
+      "sourceNote": "Graph node has oldId 4GArjDYipit4SLqKZAWDf; same-ID content file is titled Cohere Embeddings."
     },
     {
-      "id": "3kRTzlLNBnXdTsAEXVu_M",
-      "label": "Inference SDK"
+      "id": "ro3vY_sp6xMQ-hfzO-rc1",
+      "label": "Ollama Models",
+      "sourceNote": "Same-ID source file is titled OpenAI Response API; map source carefully when writing this chapter."
     }
   ],
   "projectScope": {

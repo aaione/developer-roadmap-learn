@@ -49,3 +49,6 @@
 43. [怎么把 Prompt 写得更稳](/ai-engineer/10-prompt-robustness/robust-prompt-engineering)
 44. [Know your Customers / Usecases：先定义谁在什么场景下用](/ai-engineer/10-prompt-robustness/know-your-customers-usecases)
 45. [怎么约束模型的输入和输出](/ai-engineer/10-prompt-robustness/constraining-outputs-and-inputs)
+46. [Hugging Face Tasks：先按任务找模型](/ai-engineer/11-hugging-face-open-models/hugging-face-tasks)
+47. [Hugging Face Hub：模型、数据集和 Demo 的协作仓库](/ai-engineer/11-hugging-face-open-models/hugging-face-hub)
+48. [怎么用 Hugging Face Inference SDK 接入托管推理](/ai-engineer/11-hugging-face-open-models/inference-sdk)
