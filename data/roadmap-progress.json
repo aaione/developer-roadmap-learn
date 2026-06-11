@@ -289,8 +289,12 @@
     "currentCategoryTitle": "AI Engineer",
     "currentCategoryStatus": "in_progress",
     "currentCategorySource": "developer-roadmap/src/data/roadmaps/ai-engineer/ai-engineer.json",
-    "nextCategoryPolicy": "Finish the current category before starting another roadmap unless the automation prompt explicitly reprioritizes the category order.",
-    "backlogDescription": "All other roadmap directories under src/data/roadmaps remain future ebook categories."
+    "nextCategoryPolicy": "Finish the current category before starting the configured nextCategoryAfterCurrent roadmap unless the automation prompt explicitly reprioritizes the category order.",
+    "backlogDescription": "All other roadmap directories under src/data/roadmaps remain future ebook categories.",
+    "nextCategoryAfterCurrent": "ai-agents",
+    "nextCategoryAfterCurrentTitle": "AI Agents",
+    "nextCategoryAfterCurrentSource": "developer-roadmap/src/data/roadmaps/ai-agents/ai-agents.json",
+    "nextCategoryAfterCurrentStatus": "pending"
   },
   "sourceRoot": "developer-roadmap/src/data/roadmaps",
   "currentCategory": "ai-engineer"
