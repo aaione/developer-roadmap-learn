@@ -263,22 +263,39 @@
       "id": "3kRTzlLNBnXdTsAEXVu_M",
       "label": "Inference SDK",
       "file": "docs/ai-engineer/11-hugging-face-open-models/inference-sdk.md"
-    }
-  ],
-  "next": [
+    },
     {
       "id": "bGLrbpxKgENe2xS1eQtdh",
-      "label": "Transformers.js"
+      "label": "Transformers.js",
+      "file": "docs/ai-engineer/12-local-runtime-embeddings/transformers-js.md"
     },
     {
       "id": "y0qD5Kb4Pf-ymIwW-tvhX",
       "label": "Open AI Embedding Models",
-      "sourceNote": "Graph node has oldId 4GArjDYipit4SLqKZAWDf; same-ID content file is titled Cohere Embeddings."
+      "file": "docs/ai-engineer/12-local-runtime-embeddings/open-ai-embedding-models.md",
+      "sourceNote": "Graph node has oldId 4GArjDYipit4SLqKZAWDf; chapter links to open-ai-embeddings-api@l6priWeJhbdUD5tJ7uHyG.md because it best matches the OpenAI Embedding Models topic."
     },
     {
       "id": "ro3vY_sp6xMQ-hfzO-rc1",
       "label": "Ollama Models",
-      "sourceNote": "Same-ID source file is titled OpenAI Response API; map source carefully when writing this chapter."
+      "file": "docs/ai-engineer/12-local-runtime-embeddings/ollama-models.md",
+      "sourceNote": "Same-ID source file is titled OpenAI Response API; chapter links to ollama@rTT2UnvqFO3GH6ThPLEjO.md because it matches the Ollama Models topic."
+    }
+  ],
+  "next": [
+    {
+      "id": "4GArjDYipit4SLqKZAWDf",
+      "label": "Pricing Considerations",
+      "sourceNote": "Same-ID source file is titled Gemini Embedding; map source carefully when writing this chapter."
+    },
+    {
+      "id": "eMfcyBxnMY_l_5-8eg6sD",
+      "label": "Semantic Search"
+    },
+    {
+      "id": "TsG_I7FL-cOCSw8gvZH3r",
+      "label": "Ollama SDK",
+      "sourceNote": "Same-ID source file is titled Google Gemini API; map source carefully when writing this chapter."
     }
   ],
   "projectScope": {

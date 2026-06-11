@@ -52,3 +52,6 @@
 46. [Hugging Face Tasks：先按任务找模型](/ai-engineer/11-hugging-face-open-models/hugging-face-tasks)
 47. [Hugging Face Hub：模型、数据集和 Demo 的协作仓库](/ai-engineer/11-hugging-face-open-models/hugging-face-hub)
 48. [怎么用 Hugging Face Inference SDK 接入托管推理](/ai-engineer/11-hugging-face-open-models/inference-sdk)
+49. [怎么用 Transformers.js 在浏览器或 Node.js 里跑模型](/ai-engineer/12-local-runtime-embeddings/transformers-js)
+50. [OpenAI Embedding Models：把文本变成可检索的语义坐标](/ai-engineer/12-local-runtime-embeddings/open-ai-embedding-models)
+51. [怎么用 Ollama Models 在本地跑 LLM](/ai-engineer/12-local-runtime-embeddings/ollama-models)

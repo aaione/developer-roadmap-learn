@@ -116,6 +116,14 @@ export default defineConfig({
             { text: 'Hugging Face Hub：协作仓库', link: '/ai-engineer/11-hugging-face-open-models/hugging-face-hub' },
             { text: 'Inference SDK：接入托管推理', link: '/ai-engineer/11-hugging-face-open-models/inference-sdk' }
           ]
+        },
+        {
+          text: 'Local Runtime and Embeddings',
+          items: [
+            { text: 'Transformers.js：浏览器和 Node.js 推理', link: '/ai-engineer/12-local-runtime-embeddings/transformers-js' },
+            { text: 'OpenAI Embedding Models：语义坐标', link: '/ai-engineer/12-local-runtime-embeddings/open-ai-embedding-models' },
+            { text: 'Ollama Models：本地运行 LLM', link: '/ai-engineer/12-local-runtime-embeddings/ollama-models' }
+          ]
         }
       ],
       '/logs/': [
@@ -139,7 +147,8 @@ export default defineConfig({
             { text: '2026-06-10 内容安全与对抗测试', link: '/logs/2026-06-10-run-15' },
             { text: '2026-06-10 项目范围与大分类记录调整', link: '/logs/2026-06-10-run-16' },
             { text: '2026-06-11 Prompt 稳健性与输入输出约束', link: '/logs/2026-06-11-run-17' },
-            { text: '2026-06-11 Hugging Face Tasks、Hub 与 Inference SDK', link: '/logs/2026-06-11-run-18' }
+            { text: '2026-06-11 Hugging Face Tasks、Hub 与 Inference SDK', link: '/logs/2026-06-11-run-18' },
+            { text: '2026-06-11 Transformers.js、Embedding Models 与 Ollama', link: '/logs/2026-06-11-run-19' }
           ]
         }
       ]

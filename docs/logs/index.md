@@ -18,3 +18,4 @@
 - [2026-06-10 项目范围与大分类记录调整](/logs/2026-06-10-run-16)
 - [2026-06-11 Prompt 稳健性与输入输出约束](/logs/2026-06-11-run-17)
 - [2026-06-11 Hugging Face Tasks、Hub 与 Inference SDK](/logs/2026-06-11-run-18)
+- [2026-06-11 Transformers.js、Embedding Models 与 Ollama](/logs/2026-06-11-run-19)
